@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuex3"]=self["webpackChunkvuex3"]||[]).push([[323],{5323:function(n,u,e){e.r(u),e.d(u,{default:function(){return v}});var s=e(6252);const t={class:"posts"},r=(0,s._)("h1",null,"Posts",-1),c=(0,s._)("p",null,"안녕하세요. Vue로 만든 페이지 입니다.",-1),l=[r,c];function a(n,u){return(0,s.wg)(),(0,s.iD)("div",t,l)}var o=e(3744);const f={},i=(0,o.Z)(f,[["render",a]]);var v=i}}]);
+//# sourceMappingURL=323.7cdd958c.js.map
